@@ -23,7 +23,6 @@ fn fruit_basket() -> HashMap<String, u32> {
 
 fn main() {
     // You can optionally experiment here.
-    let mut basket = fruit_basket();
 }
 
 #[cfg(test)]
